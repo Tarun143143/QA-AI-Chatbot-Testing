@@ -1,0 +1,3 @@
+Test Case ID | Test Scenario | Steps | Expected Result | Actual Result | Status
+TC_01 | Verify chatbot greeting | Open chatbot and say 'Hi' | Chatbot should respond with a greeting | | Pending
+TC_02 | Check chatbot response to an unknown query | Type 'flibberflop' | Chatbot should handle unknown input gracefully | | Pending

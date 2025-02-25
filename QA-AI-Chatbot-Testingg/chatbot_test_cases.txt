@@ -1,0 +1,16 @@
+Test Case ID | Scenario                          | Expected Output
+----------------------------------------------------------------
+TC-001       | User says "Hi"                    | "Hello! How can I assist?"
+TC-002       | User asks "What is 2+2?"          | "4"
+TC-003       | User says "Tell me a joke"        | A joke response
+TC-004       | User inputs "Goodbye"             | "See you soon!"
+TC-005       | User enters gibberish text        | "I don’t understand."
+TC-006       | User asks "What’s your name?"     | "I am an AI chatbot!"
+TC-007       | User repeats same input 3 times   | No duplicate responses
+TC-008       | User sends a very long message    | Proper response, no crash
+TC-009       | User enters offensive words       | Chatbot responds appropriately
+TC-010       | User asks "What’s the weather?"   | Weather-related response
+TC-011       | User inputs an SQL Injection      | No security vulnerability
+TC-012       | User sends emojis 😊😂🤔          | Chatbot handles it correctly
+TC-013       | User types in another language    | "Sorry, I only understand English."
+TC-014       | User tries to trick chatbot logic | Handles it properly

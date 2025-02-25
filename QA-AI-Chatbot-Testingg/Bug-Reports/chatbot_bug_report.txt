@@ -1,0 +1,9 @@
+Bug ID: 001
+Title: Chatbot fails to respond when given a long input
+Steps to Reproduce:
+1. Open chatbot
+2. Input a sentence with more than 50 words
+3. Observe response
+Expected Result: Chatbot should provide a relevant response
+Actual Result: Chatbot stops responding
+Status: Open
